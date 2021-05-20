@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "890395724825",
+    "project_id": "kittinunshoppingmall",
+    "storage_bucket": "kittinunshoppingmall.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890395724825:android:b7e84509e5df5a2afa6e88",
+        "android_client_info": {
+          "package_name": "com.androidthai.kittinunshoppingmall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890395724825-m3jb6r96c0itdth3cn6092ucmhktpjpr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzvPFz_xYw_fo4haGgIQxQSKE663G0b8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890395724825-m3jb6r96c0itdth3cn6092ucmhktpjpr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
